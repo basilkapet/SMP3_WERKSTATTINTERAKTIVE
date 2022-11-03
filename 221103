@@ -14,6 +14,30 @@ void loop () {
 
 boot taster = !digitalRead(15); // HIGH = LOW
 digitalWrite(14, taster);
+)
+Industry 4.0
+
+o Customers want individual products
+
+o These should be situation-related, varied & immediately available
+
+o Added value and additional services become clear competitive advantages.
+
+o Mass products are out - individual products are the future.
+
+o Bought today and already obsolete tomorrow (example smartphone).
+
+o New business models are shaking up entire industries: Facebook is the world's 
+largest media company - without its own content; Uber transports passengers -
+without its own vehicles and Airbnb is a kind of hotel chain - without its own houses. 
+Automakers have huge software departments.
+
+o Purchases are made internationally. Whoever offers the best price, the best quality
+
+ and the best service wins. And every bad rating on the Internet damages the image.
+
+o You only pay for what you need (pay per us).
+
 
 
 )
